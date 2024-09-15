@@ -1,10 +1,14 @@
-<p align="left">Hey guys!!!<br>📚 I'm studying software engineer at 42!<br>🎓 I'm graduated at Facens in Analys and Development of Systems.<br>🎯 I'm focus in my studies.<br>⏳ I like to be with my family.<br>🎲 In free time I like to play soccer and play videogames, I also play guitar.</p>
+<h3 align="left">Hey, there!!! I am Gabriel Sobral and this is my ideias hub!</h3>
+
+###
+
+<p align="left">📚 I'm studying software engineer at 42!<br>🎓 I'm graduated at Facens in Analys and Development of Systems.<br>🎯 I'm focus in my studies.<br>⏳ I like to be with my family.<br>🎲 In free time I like to play soccer and play videogames, I also play guitar.</p>
 
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielbastossobral&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielbastossobral&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielbastossobral&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielbastossobral&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
