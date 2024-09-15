@@ -36,10 +36,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/gabrielbastossobral/gabrielbastossobral/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h3 align="left">🌐 Socials:</h3>
 
 ###
