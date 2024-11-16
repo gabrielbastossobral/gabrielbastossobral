@@ -1,4 +1,4 @@
-<h3 align="left">Hey, there!!! I am Gabriel Sobral and this is my ideias hub!</h3>
+<h3 align="left">Hey, there!!!</h3>
 
 ###
 
